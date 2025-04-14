@@ -50,3 +50,7 @@ Bienvenue dans mon univers 🌌
 
 ---
 
+![Progression Java](https://img.shields.io/badge/Progression%20Java-80%25-green?style=for-the-badge)
+![Progression React](https://img.shields.io/badge/Progression%20React-60%25-yellow?style=for-the-badge)
+
+
