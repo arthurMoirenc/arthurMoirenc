@@ -54,11 +54,11 @@ Bienvenue dans mon univers 🌌
 
 ![💼 Expérience](https://img.shields.io/badge/-💼%20Expérience%20professionnelle-795548?style=for-the-badge&logo=workplace)
 
-- 🏢 **Label 42** — *Stage de 1ère année (Collectif d'entreprises)*  
-  → Immersion dans un environnement collaboratif, participation à des projets numériques locaux.
+- 🏢 **Label 42** — *Stage de 6 semaines dans le cadre de mon BTS informatique*  
+  → Immersion dans un environnement collaboratif, participation à des projets numériques.
 
-- 💡 **Blachère Illumination** — *Stage de 2e année*  
-  → Découverte de l’infrastructure réseau et de l'organisation technique d'une entreprise d'envergure internationale.
+- 💡 **Blachère Illumination** — *Stage d'observation*  
+    → Intégré au service **Recherche & Développement**, j’ai participé à la **modélisation 3D** et à **l’impression de luminaires**.
 
 ---
 
@@ -67,10 +67,11 @@ Bienvenue dans mon univers 🌌
 ![🤝 Engagement associatif](https://img.shields.io/badge/-🤝%20Engagement%20associatif-009688?style=for-the-badge&logo=handshake)
 
 - 🧑‍🤝‍🧑 **Jeunesse Bonnieulaise**  
-  → Membre actif de l’association locale visant à promouvoir les initiatives culturelles et sportives pour les jeunes de la commune.
+  → Membre actif de l’association locale visant à rassembler les jeunes de la commune.
 
 - 🚴 **Run and Bike**  
-  → Participation à l'organisation et à la gestion d'événements sportifs mêlant course et vélo, en soutien aux activités communautaires.
+  → Participation à l'organisation d'événements sportifs mêlant course et vélo.
+  → Encadrement de sorties à vélo pour les plus jeunes.
 
 ---
 
