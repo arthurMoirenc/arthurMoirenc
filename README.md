@@ -1,13 +1,22 @@
 ## 👨‍💻 À propos de moi
 
+![📝 À propos](https://img.shields.io/badge/-📝%20À%20propos-grey?style=for-the-badge)
+
 Je m'appelle **Arthur Moirenc**, j'ai **19 ans** et je suis actuellement en **BTS CIEL (option Réseaux)** au **lycée Astier**.
 
-🎯 Curieux, motivé, je m'intéresse autant à la **programmation**, aux **réseaux**, qu'à l'**infrastructure système**.  
-💡 Toujours en quête de nouveaux apprentissages, j’aime relever des défis techniques à travers des **projets concrets**.
+![🎯 Motivation](https://img.shields.io/badge/-🎯%20Motivation-grey?style=for-the-badge)
 
-🚀 **Projet de fin d'année :** Actuellement, je suis en train de réaliser un projet de fin d'année dans le cadre de mon BTS, qui combine **développement Java** et **développement web full stack**. Ce projet représente un véritable défi, où je mets en pratique mes compétences acquises en développement et gestion de base de données.
+Curieux, motivé, je m'intéresse autant à la **programmation**, aux **réseaux**, qu'à l'**infrastructure système**.  
+Toujours en quête de nouveaux apprentissages, j’aime relever des défis techniques à travers des **projets concrets**.
 
-🔧 Ce profil GitHub me permet de partager mes travaux, mes compétences en évolution, et de construire petit à petit mon univers professionnel.
+![🚀 Projet de fin d'année](https://img.shields.io/badge/-🚀%20Projet%20de%20fin%20d'année-grey?style=for-the-badge)
+
+Actuellement, je suis en train de réaliser un **projet de fin d'année** dans le cadre de mon BTS, combinant **développement Java** et **développement web full stack**.  
+Ce projet représente un véritable défi, où je mets en pratique mes compétences acquises en **développement** et **gestion de base de données**.
+
+![🔧 GitHub](https://img.shields.io/badge/-🔧%20GitHub-grey?style=for-the-badge)
+
+Ce profil GitHub me permet de partager mes travaux, mes compétences en évolution, et de construire petit à petit mon univers professionnel.
 
 Bienvenue dans mon univers 🌌
 
