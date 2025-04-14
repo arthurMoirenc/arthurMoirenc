@@ -50,7 +50,6 @@ Bienvenue dans mon univers 🌌
 
 ---
 
-## 📜 Certifications
-
-![Java Certification](https://img.shields.io/badge/Certification%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
+![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=tokyonight)
+z
