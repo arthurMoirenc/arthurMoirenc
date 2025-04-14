@@ -1,6 +1,6 @@
 ## 👨‍💻 À propos de moi
 
-![Langages & Outils]([https://media.giphy.com/media/26gR1vZXY5g7XJlsw/giphy.gif](https://i.gifer.com/Ayu6.gif))
+![Langages & Outils](https://i.gifer.com/Ayu6.gif)
 
 
 ![📝 À propos](https://img.shields.io/badge/-📝%20À%20propos-4CAF50?style=for-the-badge)
