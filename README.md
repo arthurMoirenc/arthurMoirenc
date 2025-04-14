@@ -75,7 +75,7 @@ Bienvenue dans mon univers 🌌
 ---
 
 ## 💼 Expériences Professionnelles
-![💼 Expérience](https://img.shields.io/badge/-💼%20Expérience%20professionnelle-FF5722?style=for-the-badge&logo=workplace)
+![💼 Expérience](https://img.shields.io/badge/-💼%20Expérience%20professionnelle-FF5722?style=for-the-badge)
 
 
 - 🏢 **Label 42** — *Stage de 6 semaines dans le cadre de mon BTS informatique*  
@@ -87,8 +87,7 @@ Bienvenue dans mon univers 🌌
 ---
 
 ## 🤝 Engagement Associatif
-![🤝 Engagement associatif](https://img.shields.io/badge/-🤝%20Engagement%20associatif-009688?style=for-the-badge&logo=handshake)
-
+![🤝 Engagement associatif](https://img.shields.io/badge/-🤝%20Engagement%20associatif-009688?style=for-the-badge)
 
 - 🧑‍🤝‍🧑 **Jeunesse Bonnieulaise**  
   → Membre actif de l’association locale visant à rassembler les jeunes de la commune.
