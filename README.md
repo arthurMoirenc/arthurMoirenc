@@ -1,10 +1,17 @@
-## Bonjour ! Moi c’est **Arthur Moirenc**,
-j’ai **19 ans** et je suis actuellement étudiant en **BTS Informatique - option Réseaux** au **lycée Astier**.
+## 👨‍💻 À propos de moi
 
-Je cherche constamment à apprendre, créer et progresser dans des projets concrets. Ce profil me permet de partager ce que je construis et ce que j’apprends.
+Je m'appelle **Arthur Moirenc**, j'ai **19 ans** et je suis actuellement en **BTS CIEL (option Réseaux)** au **lycée Astier**.
 
-Bienvenue dans mon univers 👨‍💻
+🎯 Curieux, motivé, je m'intéresse autant à la **programmation**, aux **réseaux**, qu'à l'**infrastructure système**.  
+💡 Toujours en quête de nouveaux apprentissages, j’aime relever des défis techniques à travers des **projets concrets**.
 
+🚀 **Projet de fin d'année :** Actuellement, je suis en train de réaliser un projet de fin d'année dans le cadre de mon BTS, qui combine **développement Java** et **développement web full stack**. Ce projet représente un véritable défi, où je mets en pratique mes compétences acquises en développement et gestion de base de données.
+
+🔧 Ce profil GitHub me permet de partager mes travaux, mes compétences en évolution, et de construire petit à petit mon univers professionnel.
+
+Bienvenue dans mon univers 🌌
+
+---
 
 ## 🛠️ Langages & Outils
 
