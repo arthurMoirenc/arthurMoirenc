@@ -1,8 +1,5 @@
 ## 👨‍💻 À propos de moi
 
-![Langages & Outils](https://i.gifer.com/OtFV.gif)
-
-
 ![📝 À propos](https://img.shields.io/badge/-📝%20À%20propos-4CAF50?style=for-the-badge)
 
 Je m'appelle **Arthur Moirenc**, j'ai **19 ans** et je suis actuellement en **BTS CIEL (option Réseaux)** au **lycée Astier**.
