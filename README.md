@@ -6,7 +6,7 @@ Je m'appelle **Arthur Moirenc**, j'ai **19 ans** et je suis actuellement en **BT
 ![🎯 Motivation](https://img.shields.io/badge/-🎯%20Motivation-FF9800?style=for-the-badge)
 
 Curieux, motivé, je m'intéresse autant à la **programmation**, à l'**infographie** qu'à la **vidéo**. 
-Toujours en quête de nouveaux apprentissages, j’aime relever des défis techniques à travers des **projets concrets**.
+Toujours en quête de nouveaux apprentissages, j’aime relever des défis créatifs et techniques à travers des **projets concrets**.
 
 ![🚀 Projet de fin d'année](https://img.shields.io/badge/-🚀%20Projet%20de%20fin%20d'année-2196F3?style=for-the-badge)
 
