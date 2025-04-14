@@ -2,8 +2,7 @@
 
 ## 🛠️ Langages & Outils
 
-![🧠 Langages](https://img.shields.io/badge/-🧠%20Langages-grey?style=for-the-badge)
-
+### 🧠 Langages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -15,18 +14,17 @@
 
 ---
 
-![⚙️ Outils & IDE](https://img.shields.io/badge/-⚙️%20Outils%20&%20IDE-grey?style=for-the-badge)
-
+### ⚙️ Outils & IDE
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
-![🚀 Frameworks & Libs](https://img.shields.io/badge/-🚀%20Frameworks%20&%20Libs-grey?style=for-the-badge)
-
+### 🚀 Frameworks & Libs
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 
 ---
 
