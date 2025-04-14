@@ -1,4 +1,4 @@
-## Hi there 👋
+## Salut, je suis Arthur Moirenc
 
 ## 🛠️ Langages & Outils
 
@@ -25,6 +25,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
