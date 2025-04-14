@@ -1,5 +1,4 @@
 ## 👨‍💻 À propos de moi
-
 ![📝 À propos](https://img.shields.io/badge/-📝%20À%20propos-4CAF50?style=for-the-badge)
 
 Je m'appelle **Arthur Moirenc**, j'ai **19 ans** et je suis actuellement en **BTS CIEL (option Réseaux)** au **lycée Astier**.
@@ -20,9 +19,12 @@ Ce profil GitHub me permet de partager mes travaux, mes compétences en évoluti
 
 Bienvenue dans mon univers 🌌
 
----
 
-## 🛠️ Langages & Outils
+![separator](https://img.shields.io/badge/----%20%20----%20%20-%23FF5722?style=for-the-badge)
+
+# 🛠️ Langages
+
+
 
 ### 🧠 Langages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -41,6 +43,7 @@ Bienvenue dans mon univers 🌌
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+
 ---
 
 ### 🚀 Frameworks & Libs
@@ -53,8 +56,8 @@ Bienvenue dans mon univers 🌌
 ---
 
 ## 💼 Expériences Professionnelles
+![💼 Expérience](https://img.shields.io/badge/-💼%20Expérience%20professionnelle-FF5722?style=for-the-badge&logo=workplace)
 
-![💼 Expérience](https://img.shields.io/badge/-💼%20Expérience%20professionnelle-795548?style=for-the-badge&logo=workplace)
 
 - 🏢 **Label 42** — *Stage de 6 semaines dans le cadre de mon BTS informatique*  
   → Immersion dans un environnement collaboratif, participation à des projets numériques.
@@ -65,8 +68,8 @@ Bienvenue dans mon univers 🌌
 ---
 
 ## 🤝 Engagement Associatif
-
 ![🤝 Engagement associatif](https://img.shields.io/badge/-🤝%20Engagement%20associatif-009688?style=for-the-badge&logo=handshake)
+
 
 - 🧑‍🤝‍🧑 **Jeunesse Bonnieulaise**  
   → Membre actif de l’association locale visant à rassembler les jeunes de la commune.
