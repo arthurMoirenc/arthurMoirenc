@@ -1,4 +1,10 @@
-## Salut, je suis Arthur Moirenc
+## Bonjour ! Moi c’est **Arthur Moirenc**,
+j’ai **19 ans** et je suis actuellement étudiant en **BTS Informatique - option Réseaux** au **lycée Astier**.
+
+Je cherche constamment à apprendre, créer et progresser dans des projets concrets. Ce profil me permet de partager ce que je construis et ce que j’apprends.
+
+Bienvenue dans mon univers 👨‍💻
+
 
 ## 🛠️ Langages & Outils
 
