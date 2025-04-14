@@ -22,9 +22,7 @@ Bienvenue dans mon univers 🌌
 
 <hr style="border: 2px solid #FF5722;"/>
 
-# 🛠️ Langages & Outils
-
-
+## 🛠️ Langages & Outils
 
 ### 🧠 Langages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -43,12 +41,22 @@ Bienvenue dans mon univers 🌌
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-
 ---
 
 ### 🚀 Frameworks & Libs
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+### 🔧 Technologies Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+### 🗄️ Bases de données
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![DevGIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
