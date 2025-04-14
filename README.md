@@ -37,7 +37,7 @@ Bienvenue dans mon univers 🌌
 ---
 
 ### ⚙️ Outils & IDE
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-FF5722?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-3F51B5?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
