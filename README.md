@@ -94,6 +94,7 @@ Ce profil GitHub me permet de partager mes travaux, mes compétences en évoluti
 
 - 🚴 **Run and Bike**  
   → Participation à l'organisation d'événements sportifs mêlant course et vélo.
+  
   → Encadrement de sorties à vélo pour les plus jeunes.
 
 ---
