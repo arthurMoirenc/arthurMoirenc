@@ -1,4 +1,6 @@
 ## 👨‍💻 À propos de moi
+![DevGIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 ![📝 À propos](https://img.shields.io/badge/-📝%20À%20propos-4CAF50?style=for-the-badge)
 
