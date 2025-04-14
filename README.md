@@ -49,9 +49,6 @@ Bienvenue dans mon univers 🌌
 
 
 ---
-
-<br>
-
 ---
 
 ## 💼 Expériences Professionnelles
