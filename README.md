@@ -1,5 +1,5 @@
 ## 👨‍💻 À propos de moi
-![À propos de moi](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Séparation](https://media.giphy.com/media/TlK63XMi4MwQc/giphy.gif)
 
 
 ![📝 À propos](https://img.shields.io/badge/-📝%20À%20propos-4CAF50?style=for-the-badge)
