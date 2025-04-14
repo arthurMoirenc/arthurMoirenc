@@ -20,9 +20,9 @@ Ce profil GitHub me permet de partager mes travaux, mes compétences en évoluti
 Bienvenue dans mon univers 🌌
 
 
-![separator](https://img.shields.io/badge/----%20%20----%20%20-%23FF5722?style=for-the-badge)
+![separator](https://img.shields.io/badge/----%20%20-%23FF5722?style=for-the-badge)
 
-# 🛠️ Langages
+# 🛠️ Langages & Outils
 
 
 
