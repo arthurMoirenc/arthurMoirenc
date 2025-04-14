@@ -50,6 +50,10 @@ Bienvenue dans mon univers 🌌
 
 ---
 
+<br>
+
+---
+
 ## 💼 Expériences Professionnelles
 
 ![💼 Expérience](https://img.shields.io/badge/-💼%20Expérience%20professionnelle-795548?style=for-the-badge&logo=workplace)
