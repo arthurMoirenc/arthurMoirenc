@@ -17,7 +17,7 @@ Ce projet représente un véritable défi, où je mets en pratique mes compéten
 
 Ce profil GitHub me permet de partager mes travaux, mes compétences en évolution, et de construire petit à petit mon univers professionnel.
 
-Bienvenue dans mon univers 🌌
+**Bienvenue dans mon monde** 🌌
 
 
 <hr style="border: 2px solid #FF5722;"/>
