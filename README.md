@@ -1,7 +1,4 @@
 ## 👨‍💻 À propos de moi
-![Description du GIF](URL_du_GIF)
-![À propos de moi](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 ![📝 À propos](https://img.shields.io/badge/-📝%20À%20propos-4CAF50?style=for-the-badge)
 
@@ -50,6 +47,7 @@ Bienvenue dans mon univers 🌌
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+![Langages Et Outils](langagesImg.png)
 
 ---
 ---
