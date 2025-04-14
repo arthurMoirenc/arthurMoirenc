@@ -50,6 +50,27 @@ Bienvenue dans mon univers 🌌
 
 ---
 
-![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=tokyonight)
-z
+## 💼 Expériences Professionnelles
+
+![💼 Expérience](https://img.shields.io/badge/-💼%20Expérience%20professionnelle-795548?style=for-the-badge&logo=workplace)
+
+- 🏢 **Label 42** — *Stage de 1ère année (Collectif d'entreprises)*  
+  → Immersion dans un environnement collaboratif, participation à des projets numériques locaux.
+
+- 💡 **Blachère Illumination** — *Stage de 2e année*  
+  → Découverte de l’infrastructure réseau et de l'organisation technique d'une entreprise d'envergure internationale.
+
+---
+
+## 🤝 Engagement Associatif
+
+![🤝 Engagement associatif](https://img.shields.io/badge/-🤝%20Engagement%20associatif-009688?style=for-the-badge&logo=handshake)
+
+- 🧑‍🤝‍🧑 **Jeunesse Bonnieulaise**  
+  → Membre actif de l’association locale visant à promouvoir les initiatives culturelles et sportives pour les jeunes de la commune.
+
+- 🚴 **Run and Bike**  
+  → Participation à l'organisation et à la gestion d'événements sportifs mêlant course et vélo, en soutien aux activités communautaires.
+
+---
+
