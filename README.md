@@ -1,6 +1,5 @@
 ## 👨‍💻 À propos de moi
-![Séparation Élégante](https://media.giphy.com/media/26FPLVd9VhH0u6Yze/giphy.gif)
-
+![Langages & Outils](https://media.giphy.com/media/26gR1vZXY5g7XJlsw/giphy.gif)
 
 ![📝 À propos](https://img.shields.io/badge/-📝%20À%20propos-4CAF50?style=for-the-badge)
 
